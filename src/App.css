@@ -74,7 +74,8 @@ align-items: center;
 gap: 5rem;
 width: 800px;
 height: 500px;
-background-color: aqua;
+background-color: rgb(191, 212, 212);
+color: black;
 }
 
 .cajaPrincipal h1{
